@@ -1,5 +1,8 @@
 Attribute VB_Name = "Module1"
-Sub ticker_info():
+
+' Written by Lucas Ulbrich
+
+Sub vba_challenge():
 
     Dim ws As Worksheet
     Dim tickerVolume As Double
