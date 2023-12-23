@@ -6,7 +6,7 @@ Sub vba_challenge():
 
     Dim ws As Worksheet
     Dim tickerVolume As Double
-    Dim endOfPage As Integer
+    Dim endOfPage As Long
     Dim n As Integer
     
     Dim yearlyChangeOpen As Double
